@@ -53,9 +53,9 @@ namespace MySQL_Student_CRUD
             }
 
             // Skriver ut "error message" slik at det er nyttig for den som feilsøker koden.
-            catch (MySql.Data.MySqlClient.MySqlException ex)
+            catch (MySqlException ex)
             {
-                MessageBox.Show("Du skrev inn bokstaver i en av kolonnene der det skal være tall \n" + ex.GetType());
+                MessageBox.Show("Du skrev inn en ugyldig verdi i en av kolonnene! \n" + ex.GetType());
             }
 
             // Hindrer å skrive inn tekst i en int value.
