@@ -1,0 +1,7 @@
+C:\Projects\Visual studio\Sammenlignetallmedtotall\Sammenlignetallmedtotall\bin\Debug\Sammenlignetallmedtotall.exe.config
+C:\Projects\Visual studio\Sammenlignetallmedtotall\Sammenlignetallmedtotall\bin\Debug\Sammenlignetallmedtotall.exe
+C:\Projects\Visual studio\Sammenlignetallmedtotall\Sammenlignetallmedtotall\bin\Debug\Sammenlignetallmedtotall.pdb
+C:\Projects\Visual studio\Sammenlignetallmedtotall\Sammenlignetallmedtotall\obj\Debug\Sammenlignetallmedtotall.csprojAssemblyReference.cache
+C:\Projects\Visual studio\Sammenlignetallmedtotall\Sammenlignetallmedtotall\obj\Debug\Sammenlignetallmedtotall.csproj.CoreCompileInputs.cache
+C:\Projects\Visual studio\Sammenlignetallmedtotall\Sammenlignetallmedtotall\obj\Debug\Sammenlignetallmedtotall.exe
+C:\Projects\Visual studio\Sammenlignetallmedtotall\Sammenlignetallmedtotall\obj\Debug\Sammenlignetallmedtotall.pdb

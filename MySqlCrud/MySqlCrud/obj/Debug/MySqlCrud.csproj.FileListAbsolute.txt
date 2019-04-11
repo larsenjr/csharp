@@ -1,0 +1,14 @@
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\bin\Debug\MySqlCrud.exe.config
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\bin\Debug\MySqlCrud.exe
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\bin\Debug\MySqlCrud.pdb
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\bin\Debug\MySql.Data.dll
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\bin\Debug\Google.Protobuf.dll
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\bin\Debug\MySql.Data.xml
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\obj\Debug\MySqlCrud.csprojAssemblyReference.cache
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\obj\Debug\MySqlCrud.Form1.resources
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\obj\Debug\MySqlCrud.Properties.Resources.resources
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\obj\Debug\MySqlCrud.csproj.GenerateResource.cache
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\obj\Debug\MySqlCrud.csproj.CoreCompileInputs.cache
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\obj\Debug\MySqlCrud.csproj.CopyComplete
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\obj\Debug\MySqlCrud.exe
+C:\Projects\Visual studio\MySQL Update, Delete, Insert\MySqlCrud\MySqlCrud\obj\Debug\MySqlCrud.pdb
