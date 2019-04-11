@@ -237,7 +237,7 @@ namespace MySQL_Student_CRUD
             }
         }
 
-        // Trykker "enter" som executer "btnSave".
+        // Trykker "enter" som sier at man skal trykke på knappen "btnSave".
         private void txtTillegg_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
