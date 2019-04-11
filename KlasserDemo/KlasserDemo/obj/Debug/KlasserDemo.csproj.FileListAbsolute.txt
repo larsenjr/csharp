@@ -1,0 +1,7 @@
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\KlasserDemo\KlasserDemo\obj\Debug\KlasserDemo.csprojAssemblyReference.cache
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\KlasserDemo\KlasserDemo\obj\Debug\KlasserDemo.csproj.CoreCompileInputs.cache
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\KlasserDemo\KlasserDemo\bin\Debug\KlasserDemo.exe.config
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\KlasserDemo\KlasserDemo\bin\Debug\KlasserDemo.exe
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\KlasserDemo\KlasserDemo\bin\Debug\KlasserDemo.pdb
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\KlasserDemo\KlasserDemo\obj\Debug\KlasserDemo.exe
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\KlasserDemo\KlasserDemo\obj\Debug\KlasserDemo.pdb

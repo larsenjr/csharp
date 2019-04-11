@@ -1,0 +1,15 @@
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\obj\Debug\MySQL Student CRUD.csprojAssemblyReference.cache
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\obj\Debug\MySQL Student CRUD.csproj.GenerateResource.cache
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\obj\Debug\MySQL_Student_CRUD.StudentWIndow.resources
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\bin\Debug\MySQL Student CRUD.exe.config
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\bin\Debug\MySQL Student CRUD.exe
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\bin\Debug\MySQL Student CRUD.pdb
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\bin\Debug\MaterialSkin.dll
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\bin\Debug\MySql.Data.dll
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\bin\Debug\Google.Protobuf.dll
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\bin\Debug\MySql.Data.xml
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\obj\Debug\MySQL_Student_CRUD.Properties.Resources.resources
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\obj\Debug\MySQL Student CRUD.csproj.CoreCompileInputs.cache
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\obj\Debug\MySQL Student CRUD.csproj.CopyComplete
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\obj\Debug\MySQL Student CRUD.exe
+C:\Projects\Visual studio\Student Visual og SQL\MySQL Student CRUD\MySQL Student CRUD\obj\Debug\MySQL Student CRUD.pdb

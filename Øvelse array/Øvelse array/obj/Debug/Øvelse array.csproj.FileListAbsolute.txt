@@ -1,0 +1,7 @@
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Øvelse array\Øvelse array\Øvelse array\bin\Debug\Øvelse array.exe.config
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Øvelse array\Øvelse array\Øvelse array\bin\Debug\Øvelse array.exe
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Øvelse array\Øvelse array\Øvelse array\bin\Debug\Øvelse array.pdb
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Øvelse array\Øvelse array\Øvelse array\obj\Debug\Øvelse array.csprojAssemblyReference.cache
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Øvelse array\Øvelse array\Øvelse array\obj\Debug\Øvelse array.csproj.CoreCompileInputs.cache
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Øvelse array\Øvelse array\Øvelse array\obj\Debug\Øvelse array.exe
+C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Øvelse array\Øvelse array\Øvelse array\obj\Debug\Øvelse array.pdb
