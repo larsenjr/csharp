@@ -109,7 +109,7 @@ namespace MySQL_Student_CRUD
             GridFill();
         }
 
-        // Void som slettet tekst fra boksene til
+        // Void som slettet tekst fra boksene.
         private void Clear()
         {
             txtFornavn.Clear();
