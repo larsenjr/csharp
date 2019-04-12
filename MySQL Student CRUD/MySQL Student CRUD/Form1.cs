@@ -181,11 +181,13 @@ namespace MySQL_Student_CRUD
             }
 
             // Gir beskjed om hvilke error som kommer opp hvis det er noen.
-            catch (Exception btn_Search)
+            catch (Exception ex)
             {
                 // Skriver ut "error message" slik at det er nyttig for den som feilsøker koden.
-                MessageBox.Show(btn_Search.Message.ToString());
+                MessageBox.Show(ex.Message.ToString());
+
             }
+
         }
 
         // Void for å slette informasjon i boksene.
@@ -221,10 +223,10 @@ namespace MySQL_Student_CRUD
                 }
             }
             // Gir beskjed om hvilke error som kommer opp hvis det er noen.
-            catch (Exception btn_Delete)
+            catch (Exception ex)
             {
                 // Skriver ut "error message" slik at det er nyttig for den som feilsøker koden.
-                MessageBox.Show(btn_Delete.Message.ToString());
+                MessageBox.Show(ex.Message.ToString());
             }
         }
 
