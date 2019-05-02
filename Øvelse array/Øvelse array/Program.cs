@@ -13,7 +13,7 @@ namespace Øvelse_array
             int[] tall = new int[] { 7231,1123123,1205595,28828, 12 };
             // Array.Sort< int > (tall, new Comparison<int> ((i1, i2) => i2.CompareTo(i1)));
             Array.Sort(tall);
-            sArray.Reverse(tall);
+            Array.Reverse(tall);
 
             /* Metode 2
             for (int ii = 0; ii < tall.Length; ii++)

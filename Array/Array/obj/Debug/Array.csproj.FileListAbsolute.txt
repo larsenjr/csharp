@@ -5,3 +5,10 @@ C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Array\Ar
 C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Array\Array\Array\bin\Debug\Array.pdb
 C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Array\Array\Array\obj\Debug\Array.exe
 C:\Users\StianLarsen\Google Drive\Fagskolen\Programmering\Visual studio\Array\Array\Array\obj\Debug\Array.pdb
+C:\Projects\Visual studio\larsenjr\csharp\Array\Array\bin\Debug\Array.exe.config
+C:\Projects\Visual studio\larsenjr\csharp\Array\Array\bin\Debug\Array.exe
+C:\Projects\Visual studio\larsenjr\csharp\Array\Array\bin\Debug\Array.pdb
+C:\Projects\Visual studio\larsenjr\csharp\Array\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Projects\Visual studio\larsenjr\csharp\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Projects\Visual studio\larsenjr\csharp\Array\Array\obj\Debug\Array.exe
+C:\Projects\Visual studio\larsenjr\csharp\Array\Array\obj\Debug\Array.pdb

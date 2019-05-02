@@ -1,0 +1,7 @@
+C:\Users\StianLarsen\Desktop\Visual studio drit\Switchcase\Switchcase\obj\Debug\Switchcase.csprojAssemblyReference.cache
+C:\Users\StianLarsen\Desktop\Visual studio drit\Switchcase\Switchcase\obj\Debug\Switchcase.csproj.CoreCompileInputs.cache
+C:\Users\StianLarsen\Desktop\Visual studio drit\Switchcase\Switchcase\bin\Debug\Switchcase.exe.config
+C:\Users\StianLarsen\Desktop\Visual studio drit\Switchcase\Switchcase\bin\Debug\Switchcase.exe
+C:\Users\StianLarsen\Desktop\Visual studio drit\Switchcase\Switchcase\bin\Debug\Switchcase.pdb
+C:\Users\StianLarsen\Desktop\Visual studio drit\Switchcase\Switchcase\obj\Debug\Switchcase.exe
+C:\Users\StianLarsen\Desktop\Visual studio drit\Switchcase\Switchcase\obj\Debug\Switchcase.pdb

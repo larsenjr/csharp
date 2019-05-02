@@ -1,0 +1,7 @@
+C:\Users\StianLarsen\Desktop\Visual studio drit\Alder\Alder\obj\Debug\Alder.csprojAssemblyReference.cache
+C:\Users\StianLarsen\Desktop\Visual studio drit\Alder\Alder\obj\Debug\Alder.csproj.CoreCompileInputs.cache
+C:\Users\StianLarsen\Desktop\Visual studio drit\Alder\Alder\bin\Debug\Alder.exe.config
+C:\Users\StianLarsen\Desktop\Visual studio drit\Alder\Alder\bin\Debug\Alder.exe
+C:\Users\StianLarsen\Desktop\Visual studio drit\Alder\Alder\bin\Debug\Alder.pdb
+C:\Users\StianLarsen\Desktop\Visual studio drit\Alder\Alder\obj\Debug\Alder.exe
+C:\Users\StianLarsen\Desktop\Visual studio drit\Alder\Alder\obj\Debug\Alder.pdb

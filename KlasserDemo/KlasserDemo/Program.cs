@@ -6,12 +6,15 @@ using System.Threading.Tasks;
 
 namespace KlasserDemo
 {
+    //  Klasse som brukes. 
     class Person
     {
+        // "Get" og "Set" metoder som endres i 
         public double Hoyde;
         public double Vekt;
         public string Haarfarge;
 
+        // Constructor som skaper objektet med definisjoner som skaper et nytt objekt. 
         public Person(double hoyde, double vekt, string haarfarge)
         {
             Hoyde = hoyde;
@@ -19,6 +22,7 @@ namespace KlasserDemo
             Haarfarge = haarfarge;
         }
     }
+
     class Program
     {
         static void Main(string[] args)

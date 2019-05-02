@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// Lagt til "Math biblioteket".
 using static System.Math;
 
 namespace Array
@@ -19,6 +20,8 @@ namespace Array
             {
                 maxval = Max(maxval, liste[hei]);
             }
+
+            // Startverdi + hva som skal sjekkes + om verdien skal økes eller minkes i "i++" / "i--"
             for (int i = 0; i < lengde; i++)                                // Definerer i = 0 og om lengde er høyere enn variabelen "lengde"
             {
                 float kjottkake = liste[i];                                 // Float definerer liste + 1
@@ -64,8 +67,11 @@ namespace Array
                         value = (kjottkake / 2);
                         break;
                 }
+
+                // Skriver ut verdien til en av de casene som treffer.
                 Console.WriteLine(value);
             }
+
             Console.ReadLine();
         }
         /* alternativ 2 for å skrive ut.
