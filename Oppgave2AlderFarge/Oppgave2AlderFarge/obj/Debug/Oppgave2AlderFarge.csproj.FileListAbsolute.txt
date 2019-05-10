@@ -1,0 +1,10 @@
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\bin\Debug\Oppgave2AlderFarge.exe.config
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\bin\Debug\Oppgave2AlderFarge.exe
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\bin\Debug\Oppgave2AlderFarge.pdb
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\obj\Debug\Oppgave2AlderFarge.csprojAssemblyReference.cache
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\obj\Debug\Oppgave2AlderFarge.Form1.resources
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\obj\Debug\Oppgave2AlderFarge.Properties.Resources.resources
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\obj\Debug\Oppgave2AlderFarge.csproj.GenerateResource.cache
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\obj\Debug\Oppgave2AlderFarge.csproj.CoreCompileInputs.cache
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\obj\Debug\Oppgave2AlderFarge.exe
+C:\Projects\Visual studio\Oppgave2AlderFarge\Oppgave2AlderFarge\obj\Debug\Oppgave2AlderFarge.pdb

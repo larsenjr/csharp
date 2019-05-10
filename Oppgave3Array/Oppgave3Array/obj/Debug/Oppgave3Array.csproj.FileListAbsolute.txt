@@ -1,0 +1,7 @@
+C:\Projects\Visual studio\Oppgave3Array\Oppgave3Array\obj\Debug\Oppgave3Array.csprojAssemblyReference.cache
+C:\Projects\Visual studio\Oppgave3Array\Oppgave3Array\obj\Debug\Oppgave3Array.csproj.CoreCompileInputs.cache
+C:\Projects\Visual studio\Oppgave3Array\Oppgave3Array\bin\Debug\Oppgave3Array.exe.config
+C:\Projects\Visual studio\Oppgave3Array\Oppgave3Array\bin\Debug\Oppgave3Array.exe
+C:\Projects\Visual studio\Oppgave3Array\Oppgave3Array\bin\Debug\Oppgave3Array.pdb
+C:\Projects\Visual studio\Oppgave3Array\Oppgave3Array\obj\Debug\Oppgave3Array.exe
+C:\Projects\Visual studio\Oppgave3Array\Oppgave3Array\obj\Debug\Oppgave3Array.pdb

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleApp1",
+    "\\ExceptionHandling",
+    "\\MySQL Student CRUD"
   ],
-  "SelectedNode": "\\MySQL Student CRUD",
   "PreviewInSolutionExplorer": false
 }

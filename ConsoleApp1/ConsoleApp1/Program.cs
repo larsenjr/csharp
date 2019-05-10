@@ -20,8 +20,6 @@ namespace ConsoleApp1
             var tekst4 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Summer er:" +(tekst1+tekst2+tekst3+tekst4));
 
-
-
             Console.ReadLine();
         }
     }

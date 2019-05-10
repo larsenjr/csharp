@@ -1,0 +1,10 @@
+C:\Projects\Visual studio\EclipseProve\EclipseProve\obj\Debug\EclipseProve.csprojAssemblyReference.cache
+C:\Projects\Visual studio\EclipseProve\EclipseProve\obj\Debug\EclipseProve.Form1.resources
+C:\Projects\Visual studio\EclipseProve\EclipseProve\obj\Debug\EclipseProve.Properties.Resources.resources
+C:\Projects\Visual studio\EclipseProve\EclipseProve\obj\Debug\EclipseProve.csproj.GenerateResource.cache
+C:\Projects\Visual studio\EclipseProve\EclipseProve\obj\Debug\EclipseProve.csproj.CoreCompileInputs.cache
+C:\Projects\Visual studio\EclipseProve\EclipseProve\bin\Debug\EclipseProve.exe.config
+C:\Projects\Visual studio\EclipseProve\EclipseProve\bin\Debug\EclipseProve.exe
+C:\Projects\Visual studio\EclipseProve\EclipseProve\bin\Debug\EclipseProve.pdb
+C:\Projects\Visual studio\EclipseProve\EclipseProve\obj\Debug\EclipseProve.exe
+C:\Projects\Visual studio\EclipseProve\EclipseProve\obj\Debug\EclipseProve.pdb

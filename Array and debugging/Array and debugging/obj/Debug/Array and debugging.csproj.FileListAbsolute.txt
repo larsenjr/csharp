@@ -5,3 +5,10 @@ C:\Users\StianLarsen\Desktop\Visual studio drit\Array and debugging\Array and de
 C:\Users\StianLarsen\Desktop\Visual studio drit\Array and debugging\Array and debugging\obj\Debug\Array and debugging.csproj.CoreCompileInputs.cache
 C:\Users\StianLarsen\Desktop\Visual studio drit\Array and debugging\Array and debugging\obj\Debug\Array and debugging.exe
 C:\Users\StianLarsen\Desktop\Visual studio drit\Array and debugging\Array and debugging\obj\Debug\Array and debugging.pdb
+C:\Projects\Visual studio\larsenjr\csharp\Array and debugging\Array and debugging\bin\Debug\Array and debugging.exe.config
+C:\Projects\Visual studio\larsenjr\csharp\Array and debugging\Array and debugging\bin\Debug\Array and debugging.exe
+C:\Projects\Visual studio\larsenjr\csharp\Array and debugging\Array and debugging\bin\Debug\Array and debugging.pdb
+C:\Projects\Visual studio\larsenjr\csharp\Array and debugging\Array and debugging\obj\Debug\Array and debugging.csprojAssemblyReference.cache
+C:\Projects\Visual studio\larsenjr\csharp\Array and debugging\Array and debugging\obj\Debug\Array and debugging.csproj.CoreCompileInputs.cache
+C:\Projects\Visual studio\larsenjr\csharp\Array and debugging\Array and debugging\obj\Debug\Array and debugging.exe
+C:\Projects\Visual studio\larsenjr\csharp\Array and debugging\Array and debugging\obj\Debug\Array and debugging.pdb
